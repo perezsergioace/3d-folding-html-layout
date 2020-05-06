@@ -1,0 +1,13 @@
+.wrapper-3d {
+	position: relative;
+	perspective: 20vw;
+	transform-style: preserve-3d;
+}
+
+.fold {
+	overflow: hidden;
+	width: 100vw;
+	height: 80vh;
+}
+
+
