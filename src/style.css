@@ -72,13 +72,25 @@ body {
 	padding-bottom: 75%;
 }
 .green {
-	background-color: lightgreen;
+	/* background-color: lightgreen; */
+	background: url(https://images.unsplash.com/photo-1588622056559-ea32476c6ec4);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 .blue {
-	background-color: lightblue;
+	/* background-color: lightblue; */
+	background: url(https://images.unsplash.com/photo-1545748806-937529bd92f8);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 .red {
-	background-color: lightcoral;
+	/* background-color: lightcoral; */
+	background: url(https://images.unsplash.com/photo-1579129627111-4db2bc6cceab);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 h1 {
 	text-align: center;
